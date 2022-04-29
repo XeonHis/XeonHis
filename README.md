@@ -1,7 +1,7 @@
 # README
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-284%20Thousand%20lines%20of%20code-blue)
 
@@ -46,20 +46,13 @@ Sunday       64 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   1 hr 41 mins        ██████████░░░░░░░░░░░░░░░   42.9% 
-C++                      1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   34.68% 
-XML                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.29% 
-Java                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.76% 
-ObjectiveC               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.46%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  1 hr 42 mins        ██████████░░░░░░░░░░░░░░░   42.99% 
-CLion                    1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   40.76% 
-IntelliJ                 38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.25%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 25 mins       █████████████████████░░░░   86.54% 
-Mac                      31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46%
+No Activity Tracked This Week
 
 ```
 
@@ -80,5 +73,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/XeonHis/XeonHis/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/04/2022 10:39:19 UTC
+ Last Updated on 29/04/2022 10:39:20 UTC
 <!--END_SECTION:waka-->
