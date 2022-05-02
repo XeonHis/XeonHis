@@ -1,7 +1,7 @@
 # README
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-284%20Thousand%20lines%20of%20code-blue)
 
@@ -46,15 +46,15 @@ Sunday       64 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-XML                      1 hr 44 mins        ████████████░░░░░░░░░░░░░   50.74% 
-Java                     1 hr 39 mins        ████████████░░░░░░░░░░░░░   48.44% 
-Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82%
+Java                     2 hrs 23 mins       █████████████░░░░░░░░░░░░   52.36% 
+XML                      2 hrs 8 mins        ███████████░░░░░░░░░░░░░░   47.02% 
+Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62%
 
 🔥 Editors: 
-IntelliJ                 3 hrs 25 mins       █████████████████████████   100.0%
+IntelliJ                 4 hrs 33 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 25 mins       █████████████████████████   100.0%
+Windows                  4 hrs 33 mins       █████████████████████████   100.0%
 
 ```
 
@@ -75,5 +75,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/XeonHis/XeonHis/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/05/2022 10:37:34 UTC
+ Last Updated on 02/05/2022 10:40:42 UTC
 <!--END_SECTION:waka-->
