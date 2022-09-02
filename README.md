@@ -1,7 +1,7 @@
 # README
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-206%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-206%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,13 +48,15 @@ Sunday       77 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Java                     5 mins              █████████████████████████   100.0%
+Java                     58 mins             ████████████████████████░   99.3% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
 
 🔥 Editors: 
-IntelliJ                 5 mins              █████████████████████████   100.0%
+IntelliJ                 58 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.0%
+Mac                      53 mins             ██████████████████████░░░   90.64% 
+Windows                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.36%
 
 ```
 
@@ -75,5 +77,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/XeonHis/XeonHis/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/09/2022 10:39:53 UTC
+ Last Updated on 02/09/2022 10:42:51 UTC
 <!--END_SECTION:waka-->
