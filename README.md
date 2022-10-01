@@ -48,15 +48,13 @@ Sunday       77 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   27 mins             ██████████████████████░░░   90.81% 
-Java                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.19%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  27 mins             ██████████████████████░░░   90.81% 
-IntelliJ                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.19%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      29 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -77,5 +75,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/XeonHis/XeonHis/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/09/2022 10:46:03 UTC
+ Last Updated on 01/10/2022 10:42:49 UTC
 <!--END_SECTION:waka-->
