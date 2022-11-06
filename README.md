@@ -1,7 +1,7 @@
 # README
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -11,7 +11,7 @@
 
 > 🏆 497 Contributions in the Year 2022
  > 
-> 📦 386.9 kB Used in GitHub's Storage 
+> 📦 386.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -79,5 +79,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/XeonHis/XeonHis/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/11/2022 10:39:11 UTC
+ Last Updated on 06/11/2022 10:39:02 UTC
 <!--END_SECTION:waka-->
