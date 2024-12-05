@@ -1,6 +1,8 @@
 # README
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C087%20hrs%2042%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-599.3%20thousand%20lines%20of%20code-blue)
@@ -11,7 +13,7 @@
  > 
 > 🏆 62 Contributions in the Year 2024
  > 
-> 💼 Opted to Hire
+> 🚫 Not Opted to Hire
  > 
 > 📜 29 Public Repositories 
  > 
@@ -70,5 +72,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XeonHis/XeonHis/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2024 08:35:45 UTC
+ Last Updated on 05/12/2024 08:40:22 UTC
 <!--END_SECTION:waka-->
