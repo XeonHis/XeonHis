@@ -1,9 +1,9 @@
 # README
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C222%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C226%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-707.7%20thousand%20lines%20of%20code-blue)
 
@@ -11,11 +11,11 @@
 
 > 📦 387.6 kB Used in GitHub's Storage 
  > 
-> 🏆 20 Contributions in the Year 2025
+> 🏆 21 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
@@ -46,17 +46,17 @@ Sunday                   190 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 39 mins       ██████████████████████░░░   88.33 % 
-JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Roff                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   8 hrs 24 mins       ██████████████████████░░░   89.98 % 
+JSON                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Roff                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Cursor                   7 hrs 32 mins       █████████████████████████   100.00 % 
+Cursor                   9 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -76,5 +76,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XeonHis/XeonHis/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2025 10:34:03 UTC
+ Last Updated on 28/02/2025 10:33:09 UTC
 <!--END_SECTION:waka-->
