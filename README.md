@@ -1,7 +1,7 @@
 # README
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C308%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C310%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -11,7 +11,7 @@
 
 > 📦 387.7 kB Used in GitHub's Storage 
  > 
-> 🏆 23 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,16 +46,16 @@ Sunday                   210 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 5 mins        ███████████████████████░░   92.45 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Python                   9 hrs 41 mins       ███████████████████████░░   93.64 % 
+JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Cursor                   9 hrs 50 mins       █████████████████████████   100.00 % 
+Cursor                   10 hrs 20 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,5 +75,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XeonHis/XeonHis/main/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2025 10:35:29 UTC
+ Last Updated on 18/04/2025 10:36:08 UTC
 <!--END_SECTION:waka-->
