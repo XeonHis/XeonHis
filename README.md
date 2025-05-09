@@ -1,7 +1,7 @@
 # README
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C326%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C328%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -11,11 +11,11 @@
 
 > 📦 387.9 kB Used in GitHub's Storage 
  > 
-> 🏆 23 Contributions in the Year 2025
+> 🏆 24 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
@@ -46,17 +46,18 @@ Sunday                   210 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Dart                     2 hrs 2 mins        ██████████████████░░░░░░░   72.26 % 
-Docker                   29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Python                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Dart                     3 hrs 27 mins       ████████████████████░░░░░   79.80 % 
+Docker                   29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Python                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 49 mins       █████████████████████████   100.00 % 
+Cursor                   3 hrs 58 mins       ███████████████████████░░   91.57 % 
+Trae                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 
 💻 Operating System: 
-Mac                      2 hrs 49 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -76,5 +77,5 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XeonHis/XeonHis/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2025 10:36:42 UTC
+ Last Updated on 09/05/2025 10:35:36 UTC
 <!--END_SECTION:waka-->
