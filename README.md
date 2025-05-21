@@ -1,9 +1,7 @@
 # README
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C335%20hrs%2029%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-764.3%20thousand%20lines%20of%20code-blue)
 
@@ -46,14 +44,14 @@ Sunday                   210 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 23 mins       █████████████████████████   99.71 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Python                   2 hrs 15 mins       █████████████████████████   99.69 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 24 mins       █████████████████████████   100.00 % 
+Cursor                   2 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -73,5 +71,5 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XeonHis/XeonHis/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2025 10:37:13 UTC
+ Last Updated on 21/05/2025 10:37:01 UTC
 <!--END_SECTION:waka-->
