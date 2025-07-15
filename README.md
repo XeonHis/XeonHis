@@ -1,7 +1,7 @@
 # README
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C347%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C347%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,15 +46,15 @@ Sunday                   210 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 12 mins        █████████████████░░░░░░░░   66.72 % 
-JSON                     35 mins             ████████░░░░░░░░░░░░░░░░░   33.27 % 
+Python                   1 hr 11 mins        █████████████████░░░░░░░░   66.39 % 
+JSON                     35 mins             ████████░░░░░░░░░░░░░░░░░   33.60 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 47 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 48 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,5 +74,5 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XeonHis/XeonHis/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2025 10:39:49 UTC
+ Last Updated on 15/07/2025 10:38:49 UTC
 <!--END_SECTION:waka-->
