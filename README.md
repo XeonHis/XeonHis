@@ -1,7 +1,7 @@
 # README
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C353%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C354%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,11 +62,11 @@ Mac                      2 hrs 29 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ███████████░░░░░░░░░░░░░░   45.45 % 
+Python                   9 repos             ██████████░░░░░░░░░░░░░░░   40.91 % 
 JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
@@ -76,5 +76,5 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XeonHis/XeonHis/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2025 10:35:37 UTC
+ Last Updated on 10/08/2025 10:36:15 UTC
 <!--END_SECTION:waka-->
