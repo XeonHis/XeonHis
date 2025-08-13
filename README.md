@@ -46,7 +46,8 @@ Sunday                   210 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 mins              █████████████████████████   100.00 % 
+Python                   7 mins              █████████████████████████   98.52 % 
+SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
 Cursor                   7 mins              █████████████████████████   100.00 % 
@@ -72,5 +73,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XeonHis/XeonHis/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2025 10:38:16 UTC
+ Last Updated on 13/08/2025 10:37:44 UTC
 <!--END_SECTION:waka-->
