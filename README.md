@@ -46,13 +46,16 @@ Sunday                   210 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 min               ███████████████░░░░░░░░░░   59.12 % 
+YAML                     1 min               ████████░░░░░░░░░░░░░░░░░   31.24 % 
+Docker                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -72,5 +75,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XeonHis/XeonHis/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2025 10:34:24 UTC
+ Last Updated on 11/10/2025 10:30:48 UTC
 <!--END_SECTION:waka-->
