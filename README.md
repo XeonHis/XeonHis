@@ -1,6 +1,8 @@
 # README
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C358%20hrs%2042%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
@@ -44,10 +46,10 @@ Sunday                   210 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 mins              █████████████░░░░░░░░░░░░   52.94 % 
-C++                      2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
-C                        1 min               █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Python                   4 mins              █████████████░░░░░░░░░░░░   50.35 % 
+C++                      2 mins              ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+C                        1 min               ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
 Cursor                   8 mins              █████████████████████████   100.00 % 
@@ -73,5 +75,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XeonHis/XeonHis/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2025 10:38:33 UTC
+ Last Updated on 04/11/2025 10:39:09 UTC
 <!--END_SECTION:waka-->
