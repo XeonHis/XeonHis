@@ -11,11 +11,11 @@
 
 > 📦 441.2 kB Used in GitHub's Storage 
  > 
-> 🏆 29 Contributions in the Year 2025
+> 🏆 30 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 37 Public Repositories 
+> 📜 38 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
@@ -46,13 +46,13 @@ Sunday                   210 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 mins              █████████████████████████   100.00 % 
+Python                   13 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   3 mins              █████████████████████████   100.00 % 
+Cursor                   13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -72,5 +72,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XeonHis/XeonHis/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2025 10:39:26 UTC
+ Last Updated on 25/11/2025 10:39:44 UTC
 <!--END_SECTION:waka-->
